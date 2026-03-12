@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/XGBoost-1.7+-FF6600?style=for-the-badge&logo=xgboost&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/SHAP-Explainable_AI-00C4B4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/>
+
 
 <br/><br/>
 
